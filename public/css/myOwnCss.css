@@ -1,0 +1,14 @@
+body{
+    background-color: white;
+}
+
+
+.newPostButton{
+    align-items: baseline;
+    justify-content:space-between;
+    float: right;
+    margin-left:15cm;
+}
+
+
+
